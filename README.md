@@ -6,8 +6,10 @@ This repo contains the code I've used to explain and run through examples when d
 Check out the finished product on my blog [here](https://philliplagoc.wordpress.com/blog/)!
 
 ## Table of Contents:
-- [Linear Regression](https://github.com/philliplagoc/Machine-Learning-Models-Blogs/blob/master/Linear%20Regression/Linear%20Regression%20Blog.ipynb)
-- [Logistic Regression](https://github.com/philliplagoc/Machine-Learning-Models-Blogs/blob/master/Logistic%20Regression/Logistic%20Regression%20Blog.ipynb)
+- [Linear Regression Code](https://github.com/philliplagoc/Machine-Learning-Models-Blogs/blob/master/Linear%20Regression/Linear%20Regression%20Blog.ipynb)
+    - [Blog post](https://philliplagoc.wordpress.com/2020/06/13/my-take-on-linear-regression-part-1/)
+- [Logistic Regression Code](https://github.com/philliplagoc/Machine-Learning-Models-Blogs/blob/master/Logistic%20Regression/Logistic%20Regression%20Blog.ipynb)
+    - [Blog post](https://philliplagoc.wordpress.com/2020/06/24/my-take-on-logistic-regression-part-1/)
 
 **Coming Soon**
 - KNN
