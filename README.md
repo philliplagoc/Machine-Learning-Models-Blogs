@@ -11,7 +11,7 @@ Check out the finished product on my blog [here](https://philliplagoc.wordpress.
 - [Logistic Regression Code](https://github.com/philliplagoc/Machine-Learning-Models-Blogs/blob/master/Logistic%20Regression/Logistic%20Regression%20Blog.ipynb)
     - [Blog post](https://philliplagoc.wordpress.com/2020/06/24/my-take-on-logistic-regression-part-1/)
 - [KNN Code](https://github.com/philliplagoc/Machine-Learning-Models-Blogs/tree/master/KNN)
-    - {Blog post](https://philliplagoc.wordpress.com/2020/07/11/my-take-on-k-nearest-neighbors-part-1/)
+    - [Blog post](https://philliplagoc.wordpress.com/2020/07/11/my-take-on-k-nearest-neighbors-part-1/)
 
 **Coming Soon**
 - K-Means
