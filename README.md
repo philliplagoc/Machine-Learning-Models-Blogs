@@ -12,9 +12,11 @@ Check out the finished product on my blog [here](https://philliplagoc.wordpress.
     - [Blog post](https://philliplagoc.wordpress.com/2020/06/24/my-take-on-logistic-regression-part-1/)
 - [KNN Code](https://github.com/philliplagoc/Machine-Learning-Models-Blogs/tree/master/KNN)
     - [Blog post](https://philliplagoc.wordpress.com/2020/07/11/my-take-on-k-nearest-neighbors-part-1/)
+- [K-Means Code](https://github.com/philliplagoc/Machine-Learning-Models-Blogs/tree/master/KMeans)
+    - [Blog post](https://philliplagoc.wordpress.com/2020/08/08/my-take-on-k-means-clustering-part-1/)
 
 **Coming Soon**
-- K-Means
+
 - Decision Trees
 - Random Forests
 - Principal Component Analysis
